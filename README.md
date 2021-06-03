@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/849465137206657072/849981019976368178/kari.gif" align="right" width="270" height="480">
+<img src="https://cdn.discordapp.com/attachments/831414649722241044/849981744333717524/ezgif.com-gif-maker_7-min.gif" align="right" width="360" height="640">
 
   ### Hey Selam Ben Laurence/Hey Hi I'm Laurence;
 
