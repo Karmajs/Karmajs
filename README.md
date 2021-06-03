@@ -9,8 +9,8 @@
 
 ### Hakkımda Daha Fazlası/More About Me;
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][Discord]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
+[<img  width="22" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" align="left" />][Discord]
+[<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" align="left" />][Instagram]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" align="left" />][Instagram2]
 
 
