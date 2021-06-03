@@ -5,7 +5,7 @@
 ###  Discord Onaylı Bot Geliştiricisi
 
 
-<font color="black" > Şuanda Çok Güzel Bi Proje İle Uğraşıyorum </font>
+<font color="black" > Şu anda Çok Güzel Bi Proje İle Uğraşıyorum </font>
 
 
 <font color="purple" > Laurence&Letia 🖤💜 </font>
