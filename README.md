@@ -11,6 +11,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][Discord]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram2]
 
 
 <br />
@@ -31,3 +32,4 @@
 
 [Discord]: https://discord.gg/Ny79fK57eD
 [Instagram]: https://www.instagram.com/vaetrolwashere/?hl=tr
+[Instagram2]: https://www.instagram.com/pantria.1/?hl=tr
