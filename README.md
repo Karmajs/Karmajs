@@ -1,16 +1,33 @@
-### Hi there 👋
+<img src="https://cdn.discordapp.com/attachments/838355114372759604/839415896429953054/real.gif" align="right" width="128" height="128">
 
-<!--
-**Laurencejs/Laurencejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Hey Selam Ben Laurence/Hey Hi I'm Laurence
 
-Here are some ideas to get you started:
+###  Discord Her Türlü Sunucuya Bot Yapılır/Discord Bots All Kinds Of Servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<font color="black" > Şarkı Dinlemeyi Ve Uyumayı Çok Severim/I Love Listening to Songs and Sleeping  </font>
+
+### Hakkımda Daha Fazlası/More About Me
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][Discord]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][Instagram]
+
+
+<br />
+
+### Kullandığım Bot Dilleri Ve Yazılımları/Bot Languages ​​And Software I Use 
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png "width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png "width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png "width="25" height="25">
+
+</p>
+<br />  
+
+
+[Discord]: https://discord.gg/Ny79fK57eD
+[Instagram]: https://www.instagram.com/vaetrolwashere/?hl=tr
