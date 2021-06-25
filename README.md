@@ -8,13 +8,12 @@
 <font color="black" > Şu anda Çok Güzel Bi Proje İle Uğraşıyorum </font>
 
 
-<font color="purple" > Laurence&Letia 🖤💜 </font>
+<font color="purple" > Laurence</font>
 
 ### Hakkımda
 
 [<img  width="22" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" align="left" />][Discord]
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" align="left" />][Instagram]
-[<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" align="left" />][Instagram2]
 
 
 <br />
@@ -31,6 +30,5 @@
 </p>
 <br />  
 
-[Discord]: https://discord.gg/Ny79fK57eD
-[Instagram]: https://www.instagram.com/vaetrolwashere/?hl=tr
-[Instagram2]: https://www.instagram.com/pantria.1/?hl=tr
+[Discord]: https://discord.gg/marino
+[Instagram]: https://www.instagram.com/laurencediyebiri/?hl=tr
