@@ -28,3 +28,4 @@
 
 [Discord]: https://discord.gg/marino
 [Instagram]: https://www.instagram.com/laurencediyebiri/?hl=tr
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/774204008247721984?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/774204008247721984)
