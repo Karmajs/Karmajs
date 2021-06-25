@@ -1,14 +1,10 @@
 <img src="https://cdn.discordapp.com/attachments/785848607751405589/838961506683060254/20210504_051247.gif" align="right" width="360" height="640">
 
-### Hey Selam Ben Laurence
+### Hey Selam Ben Laurence/Burak
 
-###  Discord Onaylı Bot Geliştiricisi
+### Discord Onaylı Bot Geliştiricisi 2018'den beri
 
-
-<font color="black" > Şu anda Çok Güzel Bi Proje İle Uğraşıyorum </font>
-
-
-<font color="purple" > Laurence</font>
+<font color="black" > Şuanda Çok Güzel Bi Botla Uğraşıyorum </font>
 
 ### Hakkımda
 
