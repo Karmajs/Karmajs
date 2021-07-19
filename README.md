@@ -11,7 +11,7 @@
 
 - 4-5 yıla yakın zamandır yazılımla içli dışlıyım.
 
-## BİLDİĞİM DİLLER
+## Bildiğim diller!
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
