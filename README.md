@@ -3,7 +3,11 @@
 
 🎉 Tekrardan herkese selam!
 
-- Öncelikle biraz kendimden bahsedim ; Ben Burak diğer adıyla [Laurence](https://github.com/Laurencejs) 19 yaşındayım öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur.
+- Gençler size biraz kendimden bahsetmek izin verin. 5 yıldır discord botları yapıyorum.
+
+- 2016'dan beri discord.js ile uğraşıyorum ve Discord sunucuları için botlar geliştiriyorum.
+
+- Github hesabımda sizlerle projelerimi paylaşacağım ve profesyonelce yapacağım.
 
 - 4-5 yıla yakın zamandır yazılımla içli dışlıyım.
 
