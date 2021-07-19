@@ -1,38 +1,23 @@
-# ✨ Hi, I am Laurence
+## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Hi my name is, Burak. I'm 19 years old. I started software development 5 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development.
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=thearkxd&color=dc143c"/>
-</div>
+🎉 Tekrardan herkese selam!
 
-<div align="center">
-    <a href="https://discord.com/users/350976460313329665" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
-</div>
+- Öncelikle biraz kendimden bahsedim ; Ben Burak diğer adıyla [Laurence](https://github.com/Laurencejs) 19 yaşındayım öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur.
 
-## ⚡ Contact
+- 4-5 yıla yakın zamandır yazılımla içli dışlıyım.
 
-<div align="center">
-    <a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Laurencejs-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Laurencejs" target="_blank"><img src="https://shields.io/badge/Laurencejs-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Laurencejs-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/botstore" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=Laurencejs&label=Ziyaretçi%20Sayısı&color=552b75" alt="TheM4F" />
 
-## 💻 Technologies I Use
+<h3>🌟 Sosyal medya hesaplarım!</h3>
+<p align="left">
+     <a href="https://instagram.com/Laurencejs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://twitch.tv/Laurencejs" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCTjMLJ-k9MzMCrbUf9Tfkcg" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/owle8vpqp8mh8g72sbapga6ll" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    
+   
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852090435212279848)]
+(https://discord.com/users/852090435212279848)
 
-<div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-    <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-</div>
-
-## 📈 Github Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Laurencejs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurencejs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+</p>
