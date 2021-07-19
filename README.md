@@ -1,36 +1,38 @@
-<img src="https://cdn.discordapp.com/attachments/866269815198842891/866707116245123132/real3.gif" align="right" width="336" height="640">
+# ✨ Hi, I am Laurence
 
-### Hey Selam Ben Laurence/Burak
-
-### Discord Onaylı Bot Geliştiricisi 2018'den beri
+Hi my name is, Burak. I'm 19 years old. I started software development 5 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development.
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Laurencejs&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=thearkxd&color=dc143c"/>
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/852090435212279848" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852090435212279848"></a>
+    <a href="https://discord.com/users/350976460313329665" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
 </div>
 
-### Hakkımda
+## ⚡ Contact
 
-[<img  width="22" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" align="left" />][Discord]
-[<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" align="left" />][Instagram]
+<div align="center">
+    <a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/Laurencejs" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.gg/botstore" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+</div>
 
+## 💻 Technologies I Use
 
-<br />
+<div align="center">
+    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
+    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+    <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>
 
-### Çalışma Alanlarım
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img height="20" src="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67"></code>
+## 📈 Github Stats
 
-</p>
-<br />  
-
-[Discord]: https://discord.gg/marino
-[Instagram]: https://www.instagram.com/laurencediyebiri/?hl=tr
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Laurencejs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurencejs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
