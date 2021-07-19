@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/785848607751405589/838961506683060254/20210504_051247.gif" align="right" width="360" height="640">
+<img src="https://cdn.discordapp.com/attachments/866183081282371595/866706487978754048/219871766_200760518544419_5543179671686476131_n.jpg" align="right" width="1080" height="1350">
 
 ### Hey Selam Ben Laurence/Burak
 
