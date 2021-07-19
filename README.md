@@ -13,9 +13,9 @@ Hi my name is, Burak. I'm 19 years old. I started software development 5 year ag
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Laurencejs" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Laurencejs-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/Laurencejs" target="_blank"><img src="https://shields.io/badge/Laurencejs-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Laurencejs-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/botstore" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
 </div>
 
@@ -32,7 +32,7 @@ Hi my name is, Burak. I'm 19 years old. I started software development 5 year ag
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Laurencejs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurencejs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=Laurencejs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurencejs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
