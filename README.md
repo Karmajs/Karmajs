@@ -4,8 +4,6 @@
 
 ### Discord Onaylı Bot Geliştiricisi 2018'den beri
 
-<font color="black" > Şuanda Çok Güzel Bi Botla Uğraşıyorum </font>
-
 ### Hakkımda
 
 [<img  width="22" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" align="left" />][Discord]
