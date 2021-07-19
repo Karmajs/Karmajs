@@ -23,12 +23,12 @@
 </p>
 
 ## Sosyal medya hesaplarım!
-<div align="center">
-    <a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Laurencejs" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~laurencejs" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/botstore" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-</div>
+<p>
+<a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=discord"></a>
+<a href="https://github.com/Laurencejs" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=github"></a>
+<a href="https://www.npmjs.com/~laurencejs" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=npm"></a>
+ <a href="https://discord.gg/botstore" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+</p>
   
 <img src="https://komarev.com/ghpvc/?username=Laurencejs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Laurencejs" />  
    
