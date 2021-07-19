@@ -4,6 +4,14 @@
 
 ### Discord Onaylı Bot Geliştiricisi 2018'den beri
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Laurencejs&color=dc143c"/>
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/852090435212279848" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852090435212279848"></a>
+</div>
+
 ### Hakkımda
 
 [<img  width="22" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" align="left" />][Discord]
