@@ -9,7 +9,7 @@
 
 - Github hesabımda sizlerle projelerimi paylaşacağım ve profesyonelce yapacağım.
 
-- 4-5 yıla yakın zamandır yazılımla içli dışlıyım.
+- Sizde discord da bot yaptırmak isterseniz [Lâurence#0001](https://discord.com/users/852090435212279848)
 
 ## Bildiğim diller!
 <p>
