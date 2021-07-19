@@ -1,7 +1,7 @@
-## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Merhaba Github! <img src="https://cdn.discordapp.com/attachments/866183081282371595/866727395440722020/laurenceee.gif" width="30px">
 
 
-<img src ="https://cdn.discordapp.com/attachments/866183081282371595/866727115172347934/pds_konfeti.gif" width="30px"> Tekrardan herkese selam!
+🎉Tekrardan herkese selam!
 
 - Gençler size biraz kendimden bahsetmek izin verin. 5 yıldır discord botları yapıyorum.
 
