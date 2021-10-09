@@ -9,7 +9,7 @@
 
 - Github hesabımda sizlerle projelerimi paylaşacağım ve profesyonelce yapacağım.
 
-- Sizde discord da bot yaptırmak isterseniz [Lâurence#0001](https://discord.com/users/852090435212279848)
+- Sizde discord da bot yaptırmak isterseniz [kârma sávage#5499](https://discord.com/users/852090435212279848)
 
 ## Bildiğim diller!
 <p>
@@ -24,13 +24,13 @@
 
 ## Sosyal medya hesaplarım!
 <p>
-<a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=discord"></a>
-<a href="https://github.com/Laurencejs" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=github"></a>
-<a href="https://www.npmjs.com/~laurencejs" target="_blank"><img src="https://shields.io/badge/Laurence-111111.svg?&style=for-the-badge&logo=npm"></a>
- <a href="https://discord.gg/botstore" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+<a href="https://discord.com/users/852090435212279848" target="_blank"><img src="https://shields.io/badge/Kârma-111111.svg?&style=for-the-badge&logo=discord"></a>
+<a href="https://github.com/Karmajs" target="_blank"><img src="https://shields.io/badge/Kârma-111111.svg?&style=for-the-badge&logo=github"></a>
+<a href="https://www.npmjs.com/~karma.rat" target="_blank"><img src="https://shields.io/badge/Kârma-111111.svg?&style=for-the-badge&logo=npm"></a>
+ <a href=https://discord.gg/vXdmaUQpJf"" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
 </p>
   
-<img src="https://komarev.com/ghpvc/?username=Laurencejs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Laurencejs" />  
+<img src="https://komarev.com/ghpvc/?username=Kârmajs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Kârmajs" />  
    
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852090435212279848
                             )](https://discord.com/users/852090435212279848)
