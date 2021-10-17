@@ -30,7 +30,7 @@
  <a href=https://discord.gg/vXdmaUQpJf"" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
 </p>
   
-<img src="https://komarev.com/ghpvc/?username=Kârmajs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Kârmajs" />  
+<img src="https://komarev.com/ghpvc/?username=Kârmajs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Karmajs" />  
    
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852090435212279848
                             )](https://discord.com/users/852090435212279848)
